@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anasisa
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning WEB DESIGN
+- 💞️ I’m looking to collaborate FRONTEND DEVELOPERS
+- 📫 How to reach me isa.anas04@gmail.com
 
 <!---
 Anasisa/Anasisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
